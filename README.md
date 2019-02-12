@@ -1,2 +1,2 @@
-# Orca-reader
-Orca reader
+# Orca reader
+![Orca Reader](preview.png)
